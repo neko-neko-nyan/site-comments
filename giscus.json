@@ -1,0 +1,11 @@
+{
+  "origins": [
+    "https://neko-dev.ru",
+    "https://neko-dev.store",
+    "https://neko-neko-nyan.github.io"
+  ],
+  "originsRegex": [
+    "http://localhost:[0-9]+"
+  ],
+  "defaultCommentOrder": "oldest"
+}
